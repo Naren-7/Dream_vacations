@@ -1,4 +1,4 @@
-# PostgreSQL-Empresa-y-vacaciones
+# Vacaciones Soñadas
 
 Este código en PostgreSQL crea tres tablas en la base de datos: empleados, vacaciones, y relacion.
 
